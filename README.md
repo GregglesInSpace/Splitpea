@@ -1,5 +1,3 @@
-Split paragraph into seperate lines for animation
-
 A simple script that splits a paragraph into separate lines for animation
 
 Requires jQuery.
